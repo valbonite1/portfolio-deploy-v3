@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/valbonite1/portfolio-deploy-v3/static/css/main.49afeaf5.chunk.css",
+    "main.js": "/valbonite1/portfolio-deploy-v3/static/js/main.6b682227.chunk.js",
+    "main.js.map": "/valbonite1/portfolio-deploy-v3/static/js/main.6b682227.chunk.js.map",
+    "runtime-main.js": "/valbonite1/portfolio-deploy-v3/static/js/runtime-main.c51ea528.js",
+    "runtime-main.js.map": "/valbonite1/portfolio-deploy-v3/static/js/runtime-main.c51ea528.js.map",
+    "static/js/2.2bc33898.chunk.js": "/valbonite1/portfolio-deploy-v3/static/js/2.2bc33898.chunk.js",
+    "static/js/2.2bc33898.chunk.js.map": "/valbonite1/portfolio-deploy-v3/static/js/2.2bc33898.chunk.js.map",
+    "index.html": "/valbonite1/portfolio-deploy-v3/index.html",
+    "precache-manifest.3349537de4a8b3a603766d4f985e9736.js": "/valbonite1/portfolio-deploy-v3/precache-manifest.3349537de4a8b3a603766d4f985e9736.js",
+    "service-worker.js": "/valbonite1/portfolio-deploy-v3/service-worker.js",
+    "static/css/main.49afeaf5.chunk.css.map": "/valbonite1/portfolio-deploy-v3/static/css/main.49afeaf5.chunk.css.map",
+    "static/js/2.2bc33898.chunk.js.LICENSE.txt": "/valbonite1/portfolio-deploy-v3/static/js/2.2bc33898.chunk.js.LICENSE.txt",
+    "static/media/BONITE.png": "/valbonite1/portfolio-deploy-v3/static/media/BONITE.ec1d212a.png",
+    "static/media/campaign_launch.png": "/valbonite1/portfolio-deploy-v3/static/media/campaign_launch.f225c632.png",
+    "static/media/loading-projects.png": "/valbonite1/portfolio-deploy-v3/static/media/loading-projects.3b88f9d3.png",
+    "static/media/white-logo.png": "/valbonite1/portfolio-deploy-v3/static/media/white-logo.2062d77d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c51ea528.js",
+    "static/js/2.2bc33898.chunk.js",
+    "static/css/main.49afeaf5.chunk.css",
+    "static/js/main.6b682227.chunk.js"
+  ]
+}
